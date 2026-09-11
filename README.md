@@ -1,7 +1,9 @@
 # Microsoft Purview Data Governance Sandbox: A Case Study
 
 **Author:** Ogbonnaya Nzie Ezichi
-**Context:** Self-directed practice exercise, Microsoft Purview Unified Catalog, September 2026
+
+**Context:** Self-directed practice exercise, Microsoft Purview Unified Catalog, September 2026.
+
 **Scope note:** Built entirely on placeholder/synthetic data (single-row sample patient discharge record). No real patient information (PHI) was used at any stage. This is explicitly a learning exercise, not a production governance implementation.
 
 ---
