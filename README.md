@@ -60,12 +60,12 @@ This is arguably the more useful part of the exercise. Four separate obstacles c
 
 ## 4. Skills This Demonstrates
 
-- **Reading and correcting an incorrect mental model of a vendor's data architecture** — distinguishing Data Map collections (technical, scan-scoped) from Unified Catalog governance domains (business-scoped), and identifying where business vs. technical metadata actually lives.
-- **Methodical, evidence-based troubleshooting** under incomplete or inconsistent documentation (Purview's Unified Catalog is still in preview and its UI has known inconsistencies) — including catching and correcting my own diagnostic misstep in step 2 above rather than continuing to build on a wrong assumption.
-- **Understanding Draft/Published as a governance control**, not a cosmetic status — encountered and correctly interpreted twice, on both a glossary term and (unexplained, still to confirm) the domain itself.
+- **Reading and correcting an incorrect mental model of a vendor's data architecture** distinguishing Data Map collections (technical, scan-scoped) from Unified Catalog governance domains (business-scoped), and identifying where business vs. technical metadata actually lives.
+- **Methodical, evidence-based troubleshooting** under incomplete or inconsistent documentation (Purview's Unified Catalog is still in preview and its UI has known inconsistencies) including catching and correcting my own diagnostic misstep in step 2 above rather than continuing to build on a wrong assumption.
+- **Understanding Draft/Published as a governance control**, not a cosmetic status encountered and correctly interpreted twice, on both a glossary term and (unexplained, still to confirm) the domain itself.
 - **Judgment on manual classification and description authorship** as the necessary complement to automated scanning, since automated tools have real, demonstrable coverage gaps.
-- **Critically evaluating automated classifier output rather than trusting it by default** — catching a likely false-positive classification (a diagnosis code tagged as a personal health identification number) by reasoning about what the field actually represents versus what the classifier's pattern-matching produced.
-- **Deliberate taxonomy decisions** — e.g., choosing "Data domain" over "Regulatory" for the governance domain type, and "Dataset" over "Operational" for the data product type, with reasoning I can defend rather than a default click-through.
+- **Critically evaluating automated classifier output rather than trusting it by default** catching a likely false-positive classification (a diagnosis code tagged as a personal health identification number) by reasoning about what the field actually represents versus what the classifier's pattern-matching produced.
+- **Deliberate taxonomy decisions** e.g., choosing "Data domain" over "Regulatory" for the governance domain type, and "Dataset" over "Operational" for the data product type, with reasoning I can defend rather than a default click-through.
 
 ## 5. Known Limitations / What This Does *Not* Demonstrate
 
