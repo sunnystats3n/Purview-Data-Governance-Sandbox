@@ -10,7 +10,7 @@
 
 ## 1. Objective
 
-I wanted hands-on experience with Microsoft Purview's Unified Catalog — specifically the relationship between technical metadata (schema, automated classification) and business metadata (glossary terms, data products, governance domains) — using a healthcare-flavored dataset relevant to the data governance roles I'm targeting in Ontario. The goal was not to produce a finished governance program, but to understand how the pieces of Purview's object model actually connect, by building the chain end-to-end and documenting what broke along the way.
+I wanted hands-on experience with Microsoft Purview's Unified Catalog. Specifically the relationship between technical metadata (schema, automated classification) and business metadata (glossary terms, data products, governance domains) using a healthcare-flavoured dataset relevant to the data governance roles I am targeting in Ontario. The goal was not to produce a finished governance program, but to understand how the pieces of Purview's object model actually connect, by building the chain end-to-end and documenting what broke along the way.
 
 ## 2. What Was Built
 
