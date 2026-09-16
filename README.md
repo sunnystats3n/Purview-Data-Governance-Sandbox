@@ -10,7 +10,7 @@ This project demonstrates an enterprise-grade execution of modern **Data Governa
 Built to simulate the data challenges faced by strictly regulated industries (Banking and Healthcare), this sandbox moves past theoretical frameworks to deploy real-world implementations. The project is split into a **Two-Phase Governance Lifecycle Framework** designed to stress-test Purview’s behavioral object model—specifically evaluating the structural relationship between **Domains, Data Products, Data Assets, Business Glossaries, and Automated Classification Engines**.
 
 ### 🗂️ Strategic Architecture: The Two-Phase Lifecycle
-
+ 
 
 
 ## Phase 1 — Synthetic data, first pass at the object model
