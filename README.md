@@ -1,7 +1,7 @@
 # Purview Data Governance Sandbox
 
 **Author:** Ogbonnaya Nzie Ezichi
-**Context:** Self-directed practice with Microsoft Purview's Unified Catalog, building toward Canadian healthcare and finance data governance roles.
+**Context:** Self-directed practice with Microsoft Purview's Unified Catalog, building toward Canadian healthcare and finance data governance roles. 
 
 A two-phase exercise in how Purview's governance object model actually behaves — domains, data products, glossary terms, classification, and the gap between how the documentation describes each piece and how it actually connects in practice. Each phase is a standalone case study; Phase 2 exists because Phase 1's own "Next Steps" called for it.
 
