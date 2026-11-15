@@ -9,7 +9,7 @@
 ### 📌 Project Executive Summary
 This project demonstrates an enterprise-grade execution of modern **Data Governance, Asset Lineage, and Metadata Management** utilizing the **Microsoft Purview Unified Catalog**. 
 
-Built to simulate the data challenges faced by strictly regulated industries (Banking and Healthcare), this sandbox moves past theoretical frameworks to deploy real-world implementations. The project is split into a **Two-Phase Governance Lifecycle Framework** designed to stress-test Purview’s behavioural object model—specifically evaluating the structural relationship between **Domains, Data Products, Data Assets, Business Glossaries, and Automated Classification Engines**.
+Built to simulate the data challenges faced by strictly regulated industries (Banking and Healthcare), this sandbox moves past theoretical frameworks to deploy real-world implementations. The project is split into a **Two-Phase Governance Lifecycle Framework** designed to stress-test Purview’s behavioural object model specifically evaluating the structural relationship between **Domains, Data Products, Data Assets, Business Glossaries, and Automated Classification Engines**.
 
 ### 🔗 Companion Project
 This project sits alongside a companion build, the [OSFI Guideline E-23 Model Governance Pack](https://github.com/sunnystats3n/OSFI-E23-Model-Governance-Pack). PIPEDA Principle 4.3.4 puts health records and financial records in the same top-sensitivity tier — both demand the same governance rigour: access control, audit trail, and documented risk assessment before the data or model is used. This project builds that rigour for hospitalization data; the OSFI pack builds it for a credit-risk model.
